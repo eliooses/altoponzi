@@ -11,4 +11,9 @@ Lista de esquemas piramidales, esquemas ponzi y demás sistemas de estafas que u
 |	PayDiamond	|	http://paydiamond.com/ |	Fake bussiness with fake products Ponzi	|
 |	SafeBTC	|	https://safebtc.net/ |	Classic Ponzi	|
 
+To Do List:
+
+- [ ] Make a type of Ponzi reference list
+- [ ] Scrapping data from BadBitcoin.org
+
 **Donations**: 1FaWYrdgr74H81zUdUU2JGGdYNRKFWheM1
