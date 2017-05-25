@@ -10,3 +10,5 @@ Lista de esquemas piramidales, esquemas ponzi y demás sistemas de estafas que u
 |	Gift-Bcoin Club	|	http://www.giftbcoinclub.com/ |	Classic Ponzi	powered by WhatsApp |
 |	PayDiamond	|	http://paydiamond.com/ |	Fake bussiness with fake products Ponzi	|
 |	SafeBTC	|	https://safebtc.net/ |	Classic Ponzi	|
+
+**Donations**: 1FaWYrdgr74H81zUdUU2JGGdYNRKFWheM1
