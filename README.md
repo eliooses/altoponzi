@@ -1,4 +1,4 @@
-# altoponzi
+# #AltoPonzi
 List of pyramidal schemes, ponzi schemes and other systems of scams that use bitcoin as payment method.
 
 | NAME | URL | TYPE |
