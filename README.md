@@ -8,6 +8,9 @@ Lista de esquemas piramidales, esquemas ponzi y demás sistemas de estafas que u
 | NAME | URL | TYPE |
 | ------------- | ------------- |:-------------:|
 |	Gift-Bcoin Club	|	http://www.giftbcoinclub.com/ |	Classic Ponzi	powered by WhatsApp |
+|	GladiaCoin	|	https://gladiacoin.com/ |	Classic Ponzi	|
+|	MeCoin	|	https://me-coin.com |	Ponzi with trading and ecosystem of apps and ecommerce sites related	|
+|	OneCoin	|	https://www.onecoin.eu |	Classic Ponzi with a fake token and a fake private blockchain	|
 |	PayDiamond	|	http://paydiamond.com/ |	Fake bussiness with fake products Ponzi	|
 |	SafeBTC	|	https://safebtc.net/ |	Classic Ponzi	|
 
