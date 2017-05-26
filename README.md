@@ -7,7 +7,6 @@ Lista de esquemas piramidales, esquemas ponzi y demás sistemas de estafas que u
 
 | NAME | URL | TYPE |
 | ------------- | ------------- |:-------------:|
-
 |	2x2Bitcoin	|	https://www.2x2bitcoin.com/ |	Classic Ponzi |
 |	Gift-Bcoin Club	|	http://www.giftbcoinclub.com/ |	Classic Ponzi	powered by WhatsApp |
 |	GladiaCoin	|	https://gladiacoin.com/ |	Classic Ponzi	|
